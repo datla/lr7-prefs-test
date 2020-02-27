@@ -1,0 +1,4 @@
+Bundle-Name: prefs-test
+Bundle-SymbolicName: uk.ac.uea.portal.dashboard.prefstest
+Bundle-Version: 1.0.0
+Export-Package: uk.ac.uea.portal.dashboard.prefstest.constants
